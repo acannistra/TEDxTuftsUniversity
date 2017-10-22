@@ -110,7 +110,7 @@ people:
 
   - id: &frances_de_freitas
       name: Frances DeFreitas
-      bio: Frances is a sophomore from San Francisco, California majoring in biology. She enjoys a well-cut trout filet, the human brain, and anything (and everything) cinnamon, but her one true love is the Sierra Nevada.
+      bio: Frances is a pre-med junior from San Francisco, California studying biology. She enjoys a well-cut trout filet, the human brain, and anything (and everything) cinnamon, but her one true love is the Sierra Nevada. 
       image-url: /public/team_images/frances_defreitas.jpg
 
   - id: &mitch_navetta
@@ -290,6 +290,8 @@ groups:
       - person: *saherish_surani
       - person: *joe_barbaro
       - person: *julie_jiang
+      - person: *rob_hrabchak
+      - person: *frances_de_freitas
 
   - name: Speaker Coaching
     people:
